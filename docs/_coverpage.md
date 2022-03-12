@@ -6,5 +6,5 @@
 
 
 
-[GitHub](https://ruanzt.github.io/)
+[GitHub](https://github.com/ruanzt/ruanzt.github.io)
 [开始阅读](/README)
