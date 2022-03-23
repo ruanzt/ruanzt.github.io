@@ -1,6 +1,6 @@
 ![logo](_media/logo.png)
 
-# Java学习案例
+# 实践案例
 
 ### 渺小的沙子
 
