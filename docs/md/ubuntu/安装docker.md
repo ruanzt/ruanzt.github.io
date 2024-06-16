@@ -1,4 +1,6 @@
-使用 APT 安装
+# 使用 APT 安装
+
+
 
 ```
 sudo apt-get update
@@ -42,10 +44,10 @@ sudo vi /etc/docker/daemon.json
 ```
 {
     "registry-mirrors" : [
-    "https://registry.docker-cn.com",
-    "https://docker.mirrors.ustc.edu.cn",
-    "http://hub-mirror.c.163.com",
-    "https://cr.console.aliyun.com/"
+        "https://registry.docker-cn.com",
+        "https://docker.mirrors.ustc.edu.cn",
+        "http://hub-mirror.c.163.com",
+        "https://cr.console.aliyun.com/"
   ]
 }
 ```
@@ -74,7 +76,5 @@ docker info
 ```
 
 以上资料来自：https://yeasy.gitbook.io/docker_practice/install/ubuntu
-
-
 
 ![](../assets/2024-06-16-20-11-31-1718539862980.png)

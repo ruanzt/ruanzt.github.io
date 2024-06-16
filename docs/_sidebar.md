@@ -1,4 +1,4 @@
 - [首页](/README)
 - 服务器
-   - Ubuntu：
+   - [Ubuntu](/md/ubuntu/index.md)
        - [1、安装Docker](/md/ubuntu/安装docker.md)
