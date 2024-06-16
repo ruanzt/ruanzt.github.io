@@ -2,6 +2,6 @@
 
 
 ```java
-更新时间：2024-06-16，更新内容：阿里云Ubuntu环境安装Docker,部署Springboot+VUE
+更新时间：2024-06-16，更新内容：阿里云Ubuntu环境安装Docker
 
 ```

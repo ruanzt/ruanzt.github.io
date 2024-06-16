@@ -1,7 +1,5 @@
 # 使用 APT 安装
 
-
-
 ```
 sudo apt-get update
 ```
@@ -78,3 +76,17 @@ docker info
 以上资料来自：https://yeasy.gitbook.io/docker_practice/install/ubuntu
 
 ![](../assets/2024-06-16-20-11-31-1718539862980.png)
+
+安装docker-compose
+
+```shell
+sudo curl -L https://github.com/docker/compose/releases/download/1.27.4/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
+```
+
+```shell
+sudo chmod +x /usr/local/bin/docker-compose
+```
+
+```shell
+docker-compose --version
+```
